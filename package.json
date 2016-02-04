@@ -1,0 +1,19 @@
+{
+  "name": "fcc-filesize-microservice",
+  "description": "A file size microservice built for a FCC basejump",
+  "version": "1.0.0",
+  "author": {
+    "name": "codemzy"
+  },
+  "dependencies": {
+    "body-parser": "~1.14.x",
+    "express": "~4.13.x",
+    "multer": "^1.1.0"
+  },
+  "engines": {
+    "node": "4.2.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
